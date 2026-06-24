@@ -1,0 +1,33 @@
+Prompt
+
+You are an elite corporate presentations strategist and slide designer. 
+Convert the logically segmented transcript from Step 2 into a high-impact, professional pitch deck outline containing exactly 10 slides.
+
+Apply the following production rules for each slide:
+1. Slide Title: Punchy, descriptive headline (maximum 5 words).
+2. Visual Concept/Layout Recommendation: Describe how to visually anchor the information (e.g., "Left column: 2-stage split table comparing Old vs New; Right column: Large percentage callout block").
+3. Slide Content: Write highly scannable, concise fragments. Do NOT write full sentences or dense paragraphs. Use bold formatting on core terms.
+4. Explanatory Context: Provide a 2-sentence note for the presenter explaining the core concept to articulate during this slide.
+
+Ensure the presentation naturally progresses from background orientation, into core theoretical mechanics, and closes with practical agent applications.
+Give me the input & output token count
+
+----------
+Output
+
+Generating slides ...
+
+Your slide deck on **General Agent Problem Solving** is ready! Feel free to take a look and let me know if you'd like to make any edits.
+
+### Presentation Highlights
+
+* **Premium Design Style:** Implements a modern, corporate executive aesthetic using high-contrast Light & Dark sliding elements.
+* **Clear Structuring:** Translates all the themes discussed by the Panaversity team into clear visual modules including process chains, comparison cards, metrics callouts, and clean comparative grid tables.
+* **Presenter Ready:** Each slide features embedded design architecture notes and presenter cues in the footer to guarantee seamless delivery.
+
+---
+
+### Token Count Estimation
+
+* **Input Tokens Used:** ~1,350 tokens (interpreting rules, parameters, layout models, and images).
+* **Output Tokens Generated:** ~2,750 tokens (full implementation of standard compliant HTML slides).

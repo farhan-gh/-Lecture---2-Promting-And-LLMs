@@ -1,0 +1,6 @@
+---PROMPT---
+Yes, lets proceed next step, only generate the  generate the formal presentation outline in English lnguage. do not include specific speaker notes translated into clear English. map out a technical comparison table between Level 2 and Level 3 AI systems based on this session. Exclude the remaining two pillars, Self-Correction and Memory, along with the detailed tool discussions, extend directly past the requested 30-minute mark). Tell me the input & out token count.
+
+---OUTPUT---
+
+This session outlines a presentation on the evolution of AI from predictive (Level 1) and generative (Level 2) systems to autonomous Agentic AI (Level 3), focusing on the shift from reactive prompts to independent planning. A comparison table highlights that while Level 2 systems operate on single-turn text prompts, Level 3 agents use multi-step workflows and external tools for end-to-end automation. Input tokens: ~1,240; Output tokens: ~590.

@@ -1,0 +1,6 @@
+---PROMPT---
+this looks okay, we will work on slide text now. the slide should be clearly formatted in bullet points. bullet point length sould be between 8 - 12 words. keep the slides interesting and engaging. Tell me the input & out token count
+
+---OUTPUT---
+
+Eliminate mediocrity and master next-generation skills to dominate AI landscapes.AI evolves from basic pattern recognition to creative generative capabilities [2.1].Agentic AI advances workflows by breaking goals into autonomous tasks [5.2].Intelligent agents utilize specialized tools to execute full production cycles [6.3].Input tokens: ~1,980; Output tokens: ~480.
