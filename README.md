@@ -1,2 +1,1 @@
-# lab-documents-and-prompting-reports
-
+# Lecture - 2 Promting And LLMs
